@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
 https://github.com/MichelleHilmer
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+https://www.linkedin.com/in/michelle-hilmer-9a80a3196/
 
 ### Resume
 https://docs.google.com/document/d/108djQupswdF14gL2hD0LPaCJtrcTeU8YL8f84SJOqgI/edit?usp=sharing
